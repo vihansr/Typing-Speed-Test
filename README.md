@@ -13,8 +13,8 @@ A simple GUI-based typing speed test application built using Python and Tkinter.
 
 1. **Clone this repository:**  
    ```sh
-   git clone https://github.com/yourusername/typing-speed-calculator.git  
-   cd typing-speed-calculator  
+   git clone https://github.com/vihansr/Typing-Speed-Test.git  
+   cd Typing-Speed-Test
    ```  
 2. **Install dependencies (if required):**  
    ```sh
